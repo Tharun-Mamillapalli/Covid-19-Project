@@ -16,4 +16,3 @@
 * Run ```npm install```.  
 * Change the values in ```src/components``` to suit your use-case.  
 * Run ```npm start``` to spin the up the local dev server port 3000. [http://localhost:3000](http://localhost:3000).
->>>>>>> 3a5bd9e4edbe71ff443687f713e46f9885c2d6a0
